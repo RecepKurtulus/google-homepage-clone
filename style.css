@@ -1,0 +1,104 @@
+.top{
+
+   position:absolute;
+   display: block;
+   font-family:Arial, sans-serif; 
+   font-size: 13px;
+   color: #222;
+   margin-top: 10px;
+   left: 0;
+   right: 0;
+   line-height: 30px;
+
+
+
+
+}
+.top-text{
+    margin-right: 1px;
+    color: #222;
+    text-decoration:none;
+   
+
+
+}
+.top-right{
+    padding-right: 15px;
+    float :right;
+    text-decoration:none;
+    
+
+}
+.other-google-apps{
+    margin-top: 6px;
+    width: 18px;
+    height: 18px;
+    opacity: 0.75;
+}
+.sign-in-button{
+    font-weight: bold;
+    border: 1px solid
+    #4285f4;
+    border-radius: 2px;
+    background-color: #4683ea;
+    color :white;
+    padding: 0 12px;
+    line-height: 28px;
+    margin-right: 15px;
+    cursor: pointer;
+
+
+
+}
+.mid{
+    position:absolute;
+    top: 40%;  
+    left: 50%;  
+    margin-right: -50%;  
+    transform: translate(-50%, -50%)  
+
+    
+
+
+}
+.logo{
+
+
+    display: 100%;  
+    height: 92px;  
+    width: 272px;  
+    display: block;  
+    margin: auto;
+
+}
+.mic{
+
+    width: 14px;  
+    height: 20px;  
+    position: relative;  
+    left: 540px;  
+    top: 6px;  
+}
+.cam{
+
+    width: 24px;
+    height: 24px;
+    position: relative;  
+    left: 600px;  
+    top: 8px;  
+}
+.search-bar{
+    border-radius: 40px;  
+    width: 585px;  
+    margin: auto;  
+    height: 39px;  
+    border: .7px solid #E4E4E4;  
+    background-color: #fff;  
+    box-shadow:0px 1px 4px #E4E4E4;  
+    margin-bottom: 20px;  
+    outline: none;  
+    text-indent: 15px;  
+    margin-top: 20px;
+    left: 50%;
+}
+
